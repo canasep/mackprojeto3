@@ -8,8 +8,3 @@ Luiz Rodrigo Alves Vergino RA 10176038
 
 ## Dataset
 
-# Amazon Products Sales Dataset 42K+ Items - 2025
-
-O dataset foi escolhido no Kaggle, pois contém variáveis de aproximadamente 42 mil produtos vendidos na Amazon.
-
-O mesmo foi criado através de Webscrapping.

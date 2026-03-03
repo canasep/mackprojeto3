@@ -4,8 +4,6 @@
 ## UNIVERSIDADE PRESBITERIANA MACKENZIE
 
 ### GRUPO 2
-Cristina Lellis Villanova
-RA 10319958
 
 Eduardo Pinheiro Canas
 RA 10184419

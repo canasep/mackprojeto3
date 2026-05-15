@@ -17,4 +17,4 @@ Orientadora: Prof.ª Dr.ª Carolina Toledo Ferraz — 2026
 
 ---
 
-Cronograma de Entregas
+CRONOGRAMA DE ENTREGAS

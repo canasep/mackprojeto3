@@ -12,10 +12,9 @@ Orientadora: Prof.ª Dr.ª Carolina Toledo Ferraz — 2026
 
 ### GRUPO 2
 
-| Nome | RA |
-| Eduardo Pinheiro Canas | RA 10184419 |
-| Hugo de Moraes Holzer | RA 10142961 |
-| Luiz Rodrigo Alves Vergino | RA 10176038 |
+### Eduardo Pinheiro Canas - RA 10184419
+### Hugo de Moraes Holzer - RA 10142961
+### Luiz Rodrigo Alves Vergino - RA 10176038
 
 ---
 ## Objetivo
@@ -27,8 +26,8 @@ O sistema é capaz de sugerir cursos relevantes a partir de **dois modos de cons
 - **Por skill/interesse livre** — vetoriza o texto da consulta em tempo real e busca os cursos mais próximos
 
 O projeto está alinhado aos **Objetivos de Desenvolvimento Sustentável da ONU**:
-- 🎓 **ODS 4 — Educação de Qualidade**: democratiza o acesso a trilhas de aprendizado personalizadas, independentemente de renda ou orientação educacional especializada
-- 💼 **ODS 8 — Trabalho Decente e Crescimento Econômico**: auxilia na identificação de caminhos de qualificação profissional em um cenário de transformação digital acelerada
+- **ODS 4 — Educação de Qualidade**: democratiza o acesso a trilhas de aprendizado personalizadas, independentemente de renda ou orientação educacional especializada
+- **ODS 8 — Trabalho Decente e Crescimento Econômico**: auxilia na identificação de caminhos de qualificação profissional em um cenário de transformação digital acelerada
 
 ---
 
@@ -135,11 +134,35 @@ recomendar_cursos('python data analysis', n=5, por_skill=True)
 mackprojeto3/
 │
 ├── PROJETO_APLICADO_3.ipynb     # Notebook principal (pipeline completo)
-├── README.md                    # Este arquivo
+├── readme.md                    # Este arquivo
 │
-└── docs/
-    ├── AC2_Modulo3.docx         # Introdução, Referencial Teórico e Metodologia
-    └── AC2_Modulo4.docx         # Resultados, Conclusões e Trabalhos Futuros
+└── codes/
+│   └──readme_codes.md
+└── dataset/
+│   ├── arquivos/
+│   │   ├── Coursera.csv
+│   │   └── arquivos.md
+│   └── readme_dataset.md
+└── entregas/
+│   └──PROJETOAPLICADO_MODULO1.pdf
+│   └──PROJETOAPLICADO_MODULO2.pdf
+│   └──PROJETOAPLICADO_MODULO3.pdf
+│   └──PROJETOAPLICADO_MODULO4.pdf
+│   └──readme_entregas.md
+└── graficos/
+│   └──readme_graficos.md
+└── imagens/
+│   └──readme_imagens.md
+└── pdfs/
+│   └──PROJETOAPLICADO_MODULO1.pdf
+│   └──PROJETOAPLICADO_MODULO2.pdf
+│   └──PROJETOAPLICADO_MODULO3.pdf
+│   └──PROJETOAPLICADO_MODULO4.pdf
+│   └──readme_pdfs.md
+└── tables/
+│   └──readme_tables.md
+└── words/
+    └── PROJETOAPLICADO_FINAL.docx
 ```
 
 ---

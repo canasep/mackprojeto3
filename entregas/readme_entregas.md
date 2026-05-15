@@ -18,3 +18,10 @@ Orientadora: Prof.ª Dr.ª Carolina Toledo Ferraz — 2026
 ---
 
 CRONOGRAMA DE ENTREGAS
+
+---
+
+MODULO 1 - 06/03/2026
+MODULO 2 - 30/03/2026
+MODULO 3 - 27/04/2026
+MODULO 4 - 20/04/2026
